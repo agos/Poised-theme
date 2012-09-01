@@ -9,7 +9,7 @@
 
 body {
 	background-color: #d8d8d8;
-	background: url(bg.png);
+	background: url(Data/Resources/bg.png);
 	font-family: "Lucida Grande";
 	font-size: 1em;
 	overflow-y: visible;
