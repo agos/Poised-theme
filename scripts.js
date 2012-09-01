@@ -2,9 +2,6 @@
 
 // Textual.include_css("more_theme.css");
 
-Textual.include_js("jquery-1.6.2.min.js");
-Textual.include_js("my_script.js");
-
 // Function called when new message from IRC has been posted to display
 
 // Textual.newMessagePostedToDisplay = function(lineNumber)
